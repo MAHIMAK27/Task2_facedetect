@@ -1,4 +1,4 @@
-A simple Python-based application that detects human faces in images using OpenCV and Haar Cascade classifier.
+## A simple Python-based application that detects human faces in images using OpenCV and Haar Cascade classifier.
 
 ---
 
